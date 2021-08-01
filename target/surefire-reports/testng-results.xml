@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3695" started-at="2021-07-31T13:40:40 IST" finished-at="2021-07-31T13:40:44 IST">
+    <groups>
+    </groups>
+    <test name="logintest" duration-ms="3695" started-at="2021-07-31T13:40:40 IST" finished-at="2021-07-31T13:40:44 IST">
+      <class name="com.venky.Testcases.Logintest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.venky.Testcases.Logintest@7403c468]" name="setup" is-config="true" duration-ms="20903" started-at="2021-07-31T13:40:19 IST" finished-at="2021-07-31T13:40:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginAsBankmanger()[pri:0, instance:com.venky.Testcases.Logintest@7403c468]" name="LoginAsBankmanger" duration-ms="3630" started-at="2021-07-31T13:40:40 IST" finished-at="2021-07-31T13:40:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAsBankmanger -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.venky.Testcases.Logintest@7403c468]" name="teardown" is-config="true" duration-ms="956" started-at="2021-07-31T13:40:44 IST" finished-at="2021-07-31T13:40:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.venky.Testcases.Logintest -->
+    </test> <!-- logintest -->
+  </suite> <!-- Suite -->
+</testng-results>
